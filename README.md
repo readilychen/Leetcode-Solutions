@@ -1,2 +1,2 @@
 # LeetcodeSolutions
-This repository saves my solutions of the Leetcode.
+This repository are the collection of my solutions of the Leetcode problems.
