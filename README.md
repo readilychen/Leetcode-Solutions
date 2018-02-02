@@ -1,2 +1,2 @@
-# LeetcodeSolutions
-This repository are the collection of my solutions of the Leetcode problems.
+# Solutions
+This repository are the collection of my solutions of the java problems.
